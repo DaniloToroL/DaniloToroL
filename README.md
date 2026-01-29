@@ -64,6 +64,4 @@ Currently leading and developing on three main fronts:
 ---
 
 ### 📊 GitHub Stats
-
-![Danilo's Stats](https://github-readme-stats.vercel.app/api?username=DaniloToroL&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloToroL&layout=compact&theme=dark&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilotorol)](https://github.com/anuraghazra/github-readme-stats)
