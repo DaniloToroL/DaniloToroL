@@ -65,8 +65,5 @@ Currently leading and developing on three main fronts:
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniloToroL&show_icons=true&theme=tokyonight&hide_border=true" alt="Danilo's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloToroL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+![Danilo's Stats](https://github-readme-stats.vercel.app/api?username=DaniloToroL&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloToroL&layout=compact&theme=dark&hide_border=true)
